@@ -20,7 +20,7 @@ Python Jupyter PyCharm
 
 ***I have working knowledge of following tools for ML Projects execution***
 
-Docker Venv Conda
+ Venv Conda
 
 ***I have extensively used the following Python libraries for my tasks***
 
