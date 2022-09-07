@@ -31,7 +31,7 @@ SpaCy HuggingFace Transformers PyTorch Pandas regex sklearn Temsorflow
 PySpark Altair/Seaborn GenSim FastText tfhub FastAPI Streamlit
 Yolo v3,v4,v4 Pytorch Resnet deep learning models 
 
-***Experience***  2 year ml academic and 1 year industrial experience| Since 2019
+***Experience***  2 year ml academic and 2 year industrial experience| Since 2019
 
 ***Academic Background*** Msc- Machine Intelligence 
     I have been working in  ML projects at Datahub technologies Research and Development for several teams such as
